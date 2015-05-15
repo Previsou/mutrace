@@ -1,0 +1,5 @@
+Add cmd line parsing & options to aggregation scripts
+Add support for dynamic mutex creation: print mutex stats at destroy time and not everythin at end
+Add information header to aggregate_script
+Add new statisitc: max[ms] contention (and also std?)
+Fix pre-commit hook: reenable trailing whitespace removal and python
